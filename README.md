@@ -28,16 +28,16 @@ The package is available [here.](https://pypi.org/project/gaus-dist/) and requir
 3. matplotlib
 
 The package is installed by type the following command in cmd
-** pip install gaus-dist
+- pip install gaus-dist
 
 
 ### Usage
 on cmd:
 
-python
-from gaus_dist import Gaussian, Binomial
-Gaussian(10,7)
-Binomial(0.4,25)
+- python
+- from gaus_dist import Gaussian, Binomial
+- Gaussian(10,7)
+- Binomial(0.4,25)
 
 
 
